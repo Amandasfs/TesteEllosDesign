@@ -8,26 +8,29 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 */
 .menu
 {
-    
+   position:absolute;
+   top: 1%;
+   left: 60%;
+   display: inline-block;
 }
 a
 {
-   margin-top: 1%;
-   color: black;
-  float: right;
+  margin-top: 1%;
+  color: black;
   display: block;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  display: inline-block;
 }
 .logo
 {
-    margin-left: 3%;
-   float: left;
+  margin-left: 3%;
+  float: left;
   display: block;
   text-align: center;
   padding: 14px 16px;
-    width: 150px;
+  width: 150px;
 }
 .imgcall
 {
@@ -131,9 +134,10 @@ button
 }
 .txt
 {
-    background-position: center;
-   text-align: left;
    float: left;
+   text-transform: uppercase;
+   text-align: center;
+   text-align: left;
    margin-left: 5%; 
    display: inline-block;
 }
