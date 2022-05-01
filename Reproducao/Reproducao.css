@@ -1,0 +1,197 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 30 de abr. de 2022, 12:48:16
+    Author     : Amanda
+*/
+.menu
+{
+    
+}
+a
+{
+   margin-top: 1%;
+   color: black;
+  float: right;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.logo
+{
+    margin-left: 3%;
+   float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+    width: 150px;
+}
+.imgcall
+{
+    width: 15px;
+}
+
+.banner
+{
+height: 500px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+.banner-texto
+{
+text-align: center;
+position: absolute;
+top: 70%;
+left: 50%;
+transform: translate(-50%, -50%);
+color: white;
+}
+.imgbanner
+{
+    
+  border: 0px solid transparent;
+  width: 100%;
+}
+p
+{
+    text-align:  center;
+}
+
+.artigo1
+{
+    background-position: center;
+    margin-top: 25%;
+    margin-left: 20%;
+    width: 250px;
+    height: 400px;
+    display: inline-block;
+}
+.artigo2
+{
+    background-position: center;
+    margin-left: 5%;
+    width: 250px;
+    height: 400px;
+    display: inline-block;
+}
+.artigo3
+{
+    background-position: center;
+    margin-left: 5%;
+    width: 250px;
+    height: 400px;
+    display: inline-block;
+}
+.artigo4
+{
+    background-position: center;
+    margin-left: 5%;
+    width: 250px;
+    height: 400px;
+    display: inline-block;
+}
+.imgartigo
+{
+    margin-left: 25%;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.arth2, .artp
+{
+    text-align: center;
+}
+button
+{
+    background-color: #F38643;
+    color: white;
+    border-radius: 8px;
+    border-style: none;
+    font-size: 12px;
+    padding: 15px 20px;
+    font-style: inherit;
+}
+
+.imgsobre
+{  
+    background-position: center;
+    margin-right: 10%;
+    float: right;
+    width: 500px;
+}
+.SobreNos
+{
+    background-color: #e0e0e0;
+    display: inline-block;
+}
+.txt
+{
+    background-position: center;
+   text-align: left;
+   float: left;
+   margin-left: 5%; 
+   display: inline-block;
+}
+.descricaosobre
+{
+    margin-right: 55%;
+}
+
+.blog
+{
+   width: 400px;
+}
+.h2titulo
+{
+    text-align: center;
+}
+
+.Ultima1
+{
+   background-color:#e0e0e0; 
+    width: 400px;
+    margin-left: 15%;
+    display: inline-block;
+}
+.Ultima2
+{
+   background-color:#e0e0e0; 
+    width: 400px;
+    margin-left: 1%;
+    display: inline-block;
+}
+.Ultima3
+{
+   background-color:#e0e0e0; 
+    width: 400px;
+    margin-left: 1%;
+    display: inline-block;
+}
+.utitulo
+{
+    margin: 5%;
+    text-align: left;
+    display: inline-block;
+}
+.up
+{
+    margin: 5%;
+    text-align: left;
+    display: inline-block;
+}
+
+footer
+{
+    background-color: black;
+    color: white;
+}
+.p1
+{
+    text-align: center;
+}
+
